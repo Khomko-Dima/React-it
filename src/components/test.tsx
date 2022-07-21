@@ -6,7 +6,6 @@ const Test = () => {
 	const dispatch = useDispatch();
 
 	const { isLogin } = useSelector((state: RootState) => state.app);
-	console.log('rendre Test');
 
 	const handler = () => {
 		if (isLogin) {
