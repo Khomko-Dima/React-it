@@ -7,3 +7,5 @@
 
 # test 1: https://forms.gle/7CYmhWuDy7RvhhxV6
 # https://slides.com/khomkodima/code/fullscreen
+
+https://docs.google.com/forms/d/1R4M3YKAEKN_H2BEgwJoauDR__kp14iaroO97VyesPlQ/edit?usp=drivesdk
