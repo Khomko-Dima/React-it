@@ -1,11 +1,28 @@
 # React-it
-# https://wholesale-rice-6f6.notion.site/f577a437934d4bc19a4f9d4840cb98a3
-# https://codesandbox.io/s/cool-bush-p10w7t
+
+# React-it
+
+## Nastya Krysyuk
+### news app
+[code](https://github.com/valer-sky/react-project "code")
+
+## Анастасия
+### Marvel-React-App
+[code](https://github.com/Feldmar/Marvel-React-App "code")
+[project](https://feldmar.github.io/Marvel-React-App/ "project")
 
 
-#https://codesandbox.io/s/tender-tesla-ngpr8g?file=/src/pages/books/books.tsx
+## Valery Stankevich
+### Craft beer
+[code](https://github.com/valer-sky/react-project "code")
+[project](https://react-beer-dm7mn3m7f-valer-sky.vercel.app "project")
 
-# test 1: https://forms.gle/7CYmhWuDy7RvhhxV6
-# https://slides.com/khomkodima/code/fullscreen
+## Сергей
+### Сrypto
+[code](https://github.com/Serhio13/React-project "code")
+[project](https://serhio13.github.io "project")
 
-https://docs.google.com/forms/d/1R4M3YKAEKN_H2BEgwJoauDR__kp14iaroO97VyesPlQ/edit?usp=drivesdk
+## Илья
+### Todo
+[code](https://github.com/Ilya-Trasukha/Todo_app_react_project "code")
+[project](https://ilya-trasukha.github.io/Todo_app_react_project/ "project")
