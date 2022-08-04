@@ -2,7 +2,7 @@
 
 ## Nastya Krysyuk
 ### news app
-[code](https://github.com/valer-sky/react-project "code")
+[code](https://github.com/NastyaKrysyuk/news-app_react-ts-antd/tree/main "code")
 
 ## Анастасия
 ### Marvel-React-App
@@ -18,7 +18,7 @@
 ## Сергей
 ### Сrypto
 [code](https://github.com/Serhio13/React-project "code")
-[project](https://serhio13.github.io "project")
+[project](https://serhio13.github.io/testa/ "project")
 
 ## Илья
 ### Todo
