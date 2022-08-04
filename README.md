@@ -1,7 +1,5 @@
 # React-it
 
-# React-it
-
 ## Nastya Krysyuk
 ### news app
 [code](https://github.com/valer-sky/react-project "code")
